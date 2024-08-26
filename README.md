@@ -29,7 +29,7 @@ Additionally, this repository contains alternative configurations meant to be us
 > [!NOTE]  
 > Shield is configured for an earlier revision of Pete Johanson's [Corne Ultralight PCB](https://github.com/petejohanson/crkbd/tree/board/corne-ultralight), with nice!view support.
 
-## Charybdis
+## Charybdis 
 
 - [Charybdis](https://github.com/eigatech/zmk-config/tree/charybdis-3.5)
 - [Charybdis Dongle](https://github.com/eigatech/zmk-config/tree/charybdis-dongle)
